@@ -1,0 +1,2 @@
+{"nome":"aa","localita":"aaa","note":"aaaa\\","valutazione":"5"}
+{"nome":"aa","localita":"aaa","note":"aaaa\\","valutazione":"5"}
